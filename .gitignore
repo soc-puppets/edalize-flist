@@ -47,3 +47,9 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
+# Pip
+/*.egg-info/
+
+# Vim swapfiles
+.*.sw[a-p]
